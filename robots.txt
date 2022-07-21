@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://beijing-kug.github.io/sitemap.xml

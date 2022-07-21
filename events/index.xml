@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on 北京 KUG</title>
+    <link>https://beijing-kug.github.io/events/</link>
+    <description>Recent content in Events on 北京 KUG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin Meetup 1</title>
+      <link>https://beijing-kug.github.io/events/event/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/events/event/</guid>
+      <description>北京 KUG 首次 Meetup 活动准备中，敬请期待&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
