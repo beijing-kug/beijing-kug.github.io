@@ -6,14 +6,18 @@
     <description>Recent content on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kotlin Meetup 1</title>
-      <link>https://beijing-kug.github.io/events/event/</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <title>KAE将被正式移除，如何无缝迁移？</title>
+      <link>https://beijing-kug.github.io/events/kace/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://beijing-kug.github.io/events/event/</guid>
-      <description>北京 KUG 首次 Meetup 活动准备中，敬请期待&amp;hellip;</description>
+      <guid>https://beijing-kug.github.io/events/kace/</guid>
+      <description>kotlin-android-extensions 框架已经过时了很久，并且将在 Kotlin 1.8 中被正式移除。
+对于新代码，我们可以使用 ViewBinding 等方式替换，但是大量存量代码的迁移，对于开发者来说不是一个轻松的工作。
+为此，看云控股技术团队开源了 Kace 框架, 帮助开发者实现 kotlin-android-extensions 插件的无缝迁移。
+开源地址：https://github.com/kanyun-inc/Kace
+.aspect-ratio { position: relative; width: 100%; height: 0; padding-bottom: 75%; } .aspect-ratio iframe { position: absolute; width: 100%; height: 100%; left: 0; top: 0; }   </description>
     </item>
     
     <item>
