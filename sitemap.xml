@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beijing-kug.github.io/events/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <loc>https://beijing-kug.github.io/events/kotlinconf/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://beijing-kug.github.io/events/kace/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <loc>https://beijing-kug.github.io/events/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/tags/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/tags/%E5%88%86%E4%BA%AB%E4%BC%9A/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://beijing-kug.github.io/events/kace/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/advanced/</loc>
@@ -22,8 +25,6 @@
   </url><url>
     <loc>https://beijing-kug.github.io/tags/kotlin%E8%BF%9B%E9%98%B6/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://beijing-kug.github.io/events/kotlinconf/</loc>
   </url><url>
     <loc>https://beijing-kug.github.io/categories/</loc>
   </url><url>
