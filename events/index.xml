@@ -19,8 +19,8 @@
 活动简介 经过三年的疫情最困难时期，JetBrains 官方举办的 KotlinConf 大会于今年 4 月中旬在荷兰阿姆斯特丹再次回归。此次大会上，Kotlin 团队的开发人员介绍了 Kotlin 的未来发展方向和重要更新，同时来自世界各地的开发人员也分享了 Kotlin 在各个领域的先进实践经验。
 鉴于许多开发人员无法亲身参加现场活动，JetBrains 官方在全球范围内发起了 KotlinConf Global 活动，由 JetBrains 注册的 Kotlin User Group（KUG）在当地举办，旨在促进本地 Kotlin 开发人员之间的联系，提高技术水平。
 本次活动是 KotlinConf Global 活动的一部分，同时也是北京 Kotlin 用户组的首次线下活动，期待您的参加
-精彩内容 《你想知道的 Jetpack Compose 的编译器黑魔法》 讲师简介: 霍丙乾 bennyhuo，Google 开发者专家（Kotlin 方向）；《深入理解 Kotlin 协程》 作者；先后就职于腾讯、猿辅导。
-内容简介: Jetpack Compose 是 Android 官方推出的新一代的声明式 UI 开发框架，它一经推出便受到了广大开发者的密切关注。Compose 的设计实现将 Kotlin 的 DSL 能力发挥到了极致，其中基于 Kotlin 编译器插件实现的编译时代码检查和变换发挥了巨大的作用。这次分享我们将对 Jetpack Compose 的编译器插件源码进行简要剖析，在了解 Compose 的工作机制的同时也能深入理解编译器插件的适用场景。</description>
+精彩内容 《你想知道的 Jetpack Compose 的编译器黑魔法》 讲师简介：霍丙乾 bennyhuo，Google 开发者专家（Kotlin 方向）；《深入理解 Kotlin 协程》 作者；先后就职于腾讯、猿辅导。
+内容简介：Jetpack Compose 是 Android 官方推出的新一代的声明式 UI 开发框架，它一经推出便受到了广大开发者的密切关注。Compose 的设计实现将 Kotlin 的 DSL 能力发挥到了极致，其中基于 Kotlin 编译器插件实现的编译时代码检查和变换发挥了巨大的作用。这次分享我们将对 Jetpack Compose 的编译器插件源码进行简要剖析，在了解 Compose 的工作机制的同时也能深入理解编译器插件的适用场景。</description>
     </item>
     
     <item>
