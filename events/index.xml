@@ -13,13 +13,14 @@
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://beijing-kug.github.io/events/kotlinconf/</guid>
-      <description>KotlinConf Global 是社区组织的一系列聚会，目的是观看与讨论 KotlinConf 2023 的主题演讲与会议。
-KotlinConf Global 北京分享会将邀请 3 到 4 位讲师，跟大家一起分享讨论 Kotlin 的各项最新技术与 Kotlin 在各个领域的实践经验
-感兴趣的同学赶快报名参加吧~
-活动信息 当前活动进程：【规划中 &amp;amp; 报名中】
-活动时间：5 月 13 日 活动地点: 北京 (具体待定) 活动形式：线下，会邀请 3～4 位分享者分享 Kotlin 相关技术，活动间隙会提供交流探讨时间。 活动奖品：参加分享会并提出优质问题的同学会有奖品赠送，讲师也将获得额外奖品 报名参加 观众报名 欢迎任何对 Kotlin 技术感兴趣的同学报名参加分享会，与各位大佬近距离接触与讨论，同时也有机会抽取各种活动奖品
-报名链接：2023 KotlinConf Global 北京分享会观众报名表
-加入交流群 关注微信公众号“程序员江同学”，点击技术讨论，加入“北京 Kotlin 用户组”技术交流群</description>
+      <description>5月13日，北京 Kotlin 用户组将举办首次线下聚会，欢迎您的到来。
+这场活动是 KotlinConf Global 活动的一部分，我们邀请了三位嘉宾来分享他们在 Kotlin 元编程、Compose 跨平台以及 Kotlin Multiplatform 方面的实践经验。
+大家可以在现场与各位 Kotlin 技术爱好者一起交流讨论，线下面基，点击报名链接或者扫描文末二维码即可报名
+活动简介 经过三年的疫情最困难时期，JetBrains 官方举办的 KotlinConf 大会于今年 4 月中旬在荷兰阿姆斯特丹再次回归。此次大会上，Kotlin 团队的开发人员介绍了 Kotlin 的未来发展方向和重要更新，同时来自世界各地的开发人员也分享了 Kotlin 在各个领域的先进实践经验。
+鉴于许多开发人员无法亲身参加现场活动，JetBrains 官方在全球范围内发起了 KotlinConf Global 活动，由 JetBrains 注册的 Kotlin User Group（KUG）在当地举办，旨在促进本地 Kotlin 开发人员之间的联系，提高技术水平。
+本次活动是 KotlinConf Global 活动的一部分，同时也是北京 Kotlin 用户组的首次线下活动，期待您的参加
+精彩内容 《你想知道的 Jetpack Compose 的编译器黑魔法》 讲师简介: 霍丙乾 bennyhuo，Google 开发者专家（Kotlin 方向）；《深入理解 Kotlin 协程》 作者；先后就职于腾讯、猿辅导。
+内容简介: Jetpack Compose 是 Android 官方推出的新一代的声明式 UI 开发框架，它一经推出便受到了广大开发者的密切关注。Compose 的设计实现将 Kotlin 的 DSL 能力发挥到了极致，其中基于 Kotlin 编译器插件实现的编译时代码检查和变换发挥了巨大的作用。这次分享我们将对 Jetpack Compose 的编译器插件源码进行简要剖析，在了解 Compose 的工作机制的同时也能深入理解编译器插件的适用场景。</description>
     </item>
     
     <item>
