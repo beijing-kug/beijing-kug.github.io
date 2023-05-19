@@ -6,13 +6,22 @@
     <description>Recent content on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2023.05</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2023-05/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2023-05/</guid>
+      <description>社区活动 Koltin 技术月报</description>
+    </item>
+    
     <item>
       <title>活动回顾 | 2023 KotlinConf Global 北京分享会</title>
-      <link>https://beijing-kug.github.io/events/kotlinconfcallback/</link>
+      <link>https://beijing-kug.github.io/events/kotlinconf-callback/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://beijing-kug.github.io/events/kotlinconfcallback/</guid>
+      <guid>https://beijing-kug.github.io/events/kotlinconf-callback/</guid>
       <description>2023 KotlinConf Global 北京分享会结束了，感谢所有参与其中的讲师、参会者、工作人员。
 我们将讲师的演讲视频与讲义发布在 B 站与谷歌 drive ，方便大家回顾
 演讲回看 活动开场 你想知道的 Jetpack Compose 的编译器黑魔法 Jetpack Compose 是 Android 官方推出的新一代的声明式 UI 开发框架，它一经推出便受到了广大开发者的密切关注。Compose 的设计实现将 Kotlin 的 DSL 能力发挥到了极致，其中基于 Kotlin 编译器插件实现的编译时代码检查和变换发挥了巨大的作用。这次分享我们将对 Jetpack Compose 的编译器插件源码进行简要剖析，在了解 Compose 的工作机制的同时也能深入理解编译器插件的适用场景。
@@ -66,6 +75,15 @@ KMM 跨平台原理及实践 Jetbrains Compose 为什么可以跨平台？这离
       
       <guid>https://beijing-kug.github.io/events/</guid>
       <description>events</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://beijing-kug.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/</guid>
+      <description>news</description>
     </item>
     
     
