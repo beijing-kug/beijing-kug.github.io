@@ -19,7 +19,7 @@
 最新动态 KotlinConf 2023 回放来了 KotlinConf 2023 的所有回放已出，所有回放列表可见：https://kotlinconf.com/talks/
 本次大会除了开场与闭幕讨论，共有 69 场分享，可以说是一场盛宴了，我整理统计了一下各个分享的主题
 主题 分享数 Kotlin 跨平台 21 Compose 相关分享 10 Kotlin 在服务端的应用 9 Kotlin 协程相关分享 8 Kotlin 编译器与编译器插件 8 Kotlin 与测试 4 Kotlin 语言特性相关分享 4 Kotlin 与函数式编程 3 Kotlin 用于数据科学 2 Kotlin 与游戏 2 Kotlin 与 Gradle 1 Kotlin 与 AI 1 从各个主题的分享数量也可以看出 Kotlin 在各个方向的火热程度
-Kotlin 跨平台相关分享是最多的，可以看出这也是 Kotlin 团队下一步要重点发展的方向 越来越多的人开始使用 Compose ，据统计，在 top 1000 的 Android 应用中，有 21% 的应用使用了 Jetpack Compose 虽然据统计大约 66% 的 Kotlin 开发者是 Android 开发者，但服务端开发者使用 Kotlin 的比例也在逐渐上升，这应该也是 Kotlin 团队想要发力的方向 这次大会 Kotlin 编译器与编译器插件相关的分享也比较多，应该是因为 K2 编译器的逐渐成熟，即将发布 beta 版本 国外很多团队很重视代码测试方面的工作，而不仅仅是需求开发，因此 Kotlin 在测试方面的分享也较多 精选博客 社区活动 KotlinConf Global KotlinConf Global 是 KotlinConf 在全球各个城市的拓展延伸活动，促进各地 Kotlin 开发人员之间的联系，最近全国各个城市也举办了相关活动</description>
+Kotlin 跨平台相关分享是最多的，可以看出这也是 Kotlin 团队下一步要重点发展的方向 越来越多的人开始使用 Compose ，据统计，在 top 1000 的 Android 应用中，有 21% 的应用使用了 Jetpack Compose 虽然据统计大约 66% 的 Kotlin 开发者是 Android 开发者，但服务端开发者使用 Kotlin 的比例也在逐渐上升，这应该也是 Kotlin 团队想要发力的方向 这次大会 Kotlin 编译器与编译器插件相关的分享也比较多，应该是因为 K2 编译器的逐渐成熟，即将发布 beta 版本 国外很多团队重视代码测试方面的工作，而不仅仅是需求开发，因此 Kotlin 在测试方面的分享也较多 精选博客 社区活动 KotlinConf Global KotlinConf Global 是 KotlinConf 在全球各个城市的拓展延伸活动，促进各地 Kotlin 开发人员之间的联系，最近全国各个城市也举办了相关活动</description>
     </item>
     
   </channel>
