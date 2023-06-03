@@ -15,7 +15,8 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-06/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定尝试使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频，社区活动等
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 精选博客 精选视频 Compose 跨平台快速上手 Build Your First Compose Multiplatform App (KMM)：Philipp Lackner 是 youtube 上一个非常活跃的讲师，主要分享 Kotlin 与 Android 相关的一些教程。本视频介绍了如何快速创建并上手一个 Compose 跨平台项目，在 Android 与 iOS 平台上实现 UI 共享
+社区活动 </description>
     </item>
     
     <item>
