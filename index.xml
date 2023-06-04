@@ -15,7 +15,10 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-06/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定尝试使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频，社区活动等
-最新动态 精选博客 精选视频 Compose 跨平台快速上手 Build Your First Compose Multiplatform App (KMM)：Philipp Lackner 是 youtube 上一个非常活跃的讲师，主要分享 Kotlin 与 Android 相关的一些教程。本视频介绍了如何快速创建并上手一个 Compose 跨平台项目，在 Android 与 iOS 平台上实现 UI 共享
+最新动态 精选博客 Kotlin 中的函数式编程：探索 Monad 及其实际用例 Functional Programming in Kotlin: Exploring Monads and their Real-World Use Cases
+Kotlin 是一门从一开始就支持函数式编程的语言，而 Monad 是函数式编程中的一个重要概念，关于 Monad 是什么可以参考灰蓝天际大佬翻译的： Kotlin 版图解 Functor、Applicative 与 Monad
+本文主要介绍了 Monad 是什么，在 Kotlin 函数式编程中如何使用它们，以及一些 Monad 的实际应用案例。
+精选视频 Compose 跨平台快速上手 Build Your First Compose Multiplatform App (KMM)：Philipp Lackner 是一位在 YouTube 上非常活跃的讲师，主要分享 Kotlin 与 Android 相关的教程。在此视频中，他详细介绍了如何逐步创建一个 Compose 跨平台项目，实现在 Android 和 iOS 平台上共享 UI。
 社区活动 </description>
     </item>
     
