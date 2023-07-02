@@ -15,7 +15,7 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-06/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定尝试使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频，社区活动等
-最新动态 Kotlin 1.9.0-RC 版本发布 What&amp;rsquo;s new in Kotlin 1.9.0-RC:Kotlin 1.9.0-RC 版本已发布，主要包括以下内容
+最新动态 Kotlin 1.9.0-RC 版本发布 What&amp;rsquo;s new in Kotlin 1.9.0-RC：Kotlin 1.9.0-RC 版本已发布，主要包括以下内容
 持续完善 Kotlin K2 编译器，添加了对 Kotlin/Native 后端的支持 在枚举类中推荐使用entries属性代替values()方法进行遍历 1.7.20 版本引入的..&amp;lt;操作符成为稳定 API 提供了一个用于根据名称获取正则表达式capture group的新 API 提供了一个新的扩展函数createParentDirectories，可用于创建带有必要父目录的新文件，如果目录已存在，则不操作，否则创建目录 Kotlin 跨平台 Gradle 插件支持配置缓存 Google 的 Android 团队将提供自己的 Gradle 插件来支持 Kotlin Multiplatform 中的 Android Target Kotlin/Native 在访问 object 单例的 const val 字段时将不再初始化 object 精选博客 Kotlin 中的函数式编程：探索 Monad 及其实际用例 Kotlin 是一门从一开始就支持函数式编程的语言，而 Monad 是函数式编程中的一个重要概念，本文主要介绍了 Monad 是什么，在 Kotlin 函数式编程中如何使用它们，以及一些 Monad 的实际应用案例。
 Monad 的概念看起来有些难以理解， 关于 Monad 到底是什么也可以参考灰蓝天际大佬翻译的： Kotlin 版图解 Functor、Applicative 与 Monad</description>
     </item>
