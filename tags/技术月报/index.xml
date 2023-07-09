@@ -16,7 +16,7 @@
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定尝试使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 1.9.0 版本发布 What&amp;rsquo;s new in Kotlin 1.9.0：Kotlin 1.9.0 版本已发布，其中最大的变化应该是 K2 编译器终于支持了 KAPT 编译器插件，主要包括以下内容：
-持续完善 Kotlin K2 编译器，包括对 KAPT 的支持，Gradle 构建报告更好的支持等 在枚举类中推荐使用entries属性代替values()方法进行遍历 1.7.20 版本引入的..&amp;lt;操作符成为稳定 API 提供了一个用于根据名称获取正则表达式capture group的新 API 提供了一个新的扩展函数createParentDirectories，可用于创建带有必要父目录的新文件，如果目录已存在，则不操作，否则创建目录 Kotlin 跨平台 Gradle 插件支持配置缓存 Google 的 Android 团队将提供自己的 Gradle 插件来支持 Kotlin Multiplatform 中的 Android Target Kotlin/Native 在访问 object 单例的 const val 字段时将不再初始化 object Kotlin/Native在链接过程中遇到无符号问题时，默认处理方式已更改为警告而非报错，这样更接近于Kotlin/JVM的处理方式，即在运行时报错 Kotlin/Wasm 在包体积方面做了巨大的优化，以一个 HelloWorld 项目为例，1.9.0 版本相较于 1.8.20 版本，其体积缩小了10倍。 精选博客 精选视频 社区活动 </description>
+持续完善 Kotlin K2 编译器，包括对 KAPT 的支持，Gradle 构建报告更好的支持等 在枚举类中推荐使用entries属性代替values()方法进行遍历 1.7.20 版本引入的..&amp;lt;操作符成为稳定 API 提供了一个用于根据名称获取正则表达式capture group的新 API 提供了一个新的扩展函数createParentDirectories，可用于创建带有必要父目录的新文件，如果目录已存在，则不操作，否则创建目录 Kotlin 跨平台 Gradle 插件支持配置缓存 Google 的 Android 团队将提供自己的 Gradle 插件来支持 Kotlin Multiplatform 中的 Android Target Kotlin/Native 在访问 object 单例的 const val 字段时将不再初始化 object Kotlin/Native在链接过程中遇到无符号问题时，默认处理方式已更改为警告而非报错，这样更接近于Kotlin/JVM的处理方式，即在运行时报错 Kotlin/Wasm 在包体积方面做了巨大的优化，以一个 HelloWorld 项目为例，1.9.0 版本相较于 1.8.20 版本，其体积缩小了10倍。 精选博客 设计图转Compose代码，Relay帮你轻松搞定 简单来说，Relay 可以与 Figma 集成，直接把设计稿生成 Compose 代码。</description>
     </item>
     
     <item>
