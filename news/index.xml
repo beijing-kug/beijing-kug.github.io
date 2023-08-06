@@ -13,9 +13,14 @@
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-08/</guid>
-      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定尝试使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 Kotlin 路线图更新 Kotlin 路线图更新了！今年还有哪些亮点值得期待？
+带有稳定版 K2 编译器的 Kotlin 2.0 即将面世！ Kotlin Multiplatform 将在今年迈入稳定！ Kotlin/Wasm 计划将提升至 alpha，并可适用于独立的 Wasm 虚拟机 新的基础库 kotlinx-io 正在开发中 Android 调试体验改进，调试内联类与内联函数将更加容易 Kotlin 跨平台的缩写正式更改为 KMP Update on the Name of Kotlin Multiplatform
+为了解决过去两年里困扰许多 Kotlin 开发者的命名不一致和缩写混淆问题，Jetbrains 决定弃用“Kotlin多平台移动”（KMM）产品名称。从现在开始，当提及 Kotlin 用于跨不同平台共享代码的技术时，首选术语是“Kotlin多平台”（KMP），无论所讨论的目标平台组合是什么。
+KotlinConf 2024 门票现已开售 KotlinConf 2024 门票现已开售！| 官方博客
+第五届 KotlinConf 将于 2024 年 5 月 22 日至 24 日在丹麦哥本哈根贝拉中心（Bella Center）举行，届时，Kotlin 社区成员将再度齐聚一堂！
+KotlinConf’24 将举办为期一天的工作坊，随后是连续两天的内容和社交活动，包括会议、展览和其他趣味活动。 赶快预订门票，安排旅行，准备参加规模最大的 Kotlin 活动。</description>
     </item>
     
     <item>
