@@ -19,7 +19,8 @@
 Dagger 2.48 版本发布，提供了对 Dagger 和 Hilt KSP 处理器的支持。
 为了使用 Dagger 的 KSP 处理器，主要需要完成以下工作：
 按照基本设置，将 Dagger 的处理器从 kapt 迁移到 ksp。 将任何 Dagger SPI 插件迁移到新的 Dagger SPI 插件 API。 确保没有 Kapt 处理器生成需要与 Dagger 交互的类。 需要注意的是，Dagger 的 KSP 处理器仍处于 alpha 阶段，官方目前主要关注的是确保正确性而不是优化性能，在使用的过程中有任何问题都可及时向官方反馈
-精选博客 Java切换到Kotlin，Crash率上升了？ 众所周知，Kotlin 相比 Java 的一大优势便是空安全，因此从 Java 切换到 Kotlin 理论上稳定性将有所提升。不过本文作者在将一个 Java 老项目使用 Kotlin 重构上线后却发现 Crash 率有所上升。而大部分 Crash 发生在 Java 调用 Kotlin 的函数里，本文分析了具体的 Crash 场景以及一些规避方式。</description>
+精选博客 Java切换到Kotlin，Crash率上升了？ 众所周知，Kotlin 相比 Java 的一大优势便是空安全，因此从 Java 切换到 Kotlin 理论上稳定性将有所提升。
+不过本文作者在将一个 Java 老项目使用 Kotlin 重构上线后却发现 Crash 率有所上升。而大部分 Crash 发生在 Java 调用 Kotlin 的函数里，本文分析了具体的 Crash 场景以及一些规避方式。</description>
     </item>
     
     <item>
