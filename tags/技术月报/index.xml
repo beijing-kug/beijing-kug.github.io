@@ -15,13 +15,12 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-09/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 Dagger/Hilt 支持 KSP https://github.com/google/dagger/releases
+最新动态 Kotlin 1.9.20-Beta 发布 What&amp;rsquo;s new in Kotlin 1.9.20-Beta
+Kotlin 1.9.20-Beta 版本已发布，具体包括以下内容：
+全新的 Kotlin 多平台项目模板，减少配置中的重复代码 Kotlin 多平台插件添加了对 Gradle 配置缓存的完全支持 Kotlin/Native 默认使用新版内存分配器 Kotlin/Native 垃圾回收性能持续提升 添加了全新的 wasm-wasi 目标，并将原有的 wasm 目标重命名为 wasm-js 标准库添加了对 WASI API 的支持 Dagger/Hilt 支持 KSP https://github.com/google/dagger/releases
 Dagger 2.48 版本发布，提供了对 Dagger 和 Hilt KSP 处理器的支持。
 为了使用 Dagger 的 KSP 处理器，主要需要完成以下工作：
-按照基本设置，将 Dagger 的处理器从 kapt 迁移到 ksp。 将任何 Dagger SPI 插件迁移到新的 Dagger SPI 插件 API。 确保没有 Kapt 处理器生成需要与 Dagger 交互的类。 需要注意的是，Dagger 的 KSP 处理器仍处于 alpha 阶段，官方目前主要关注的是确保正确性而不是优化性能，在使用的过程中有任何问题都可及时向官方反馈
-TouchLab 开源 SKIE 项目 SKIE is Open Source
-SKIE 是 TouchLab 开源的 Kotlin 多平台桥接 Swift API 的工具，通过该工具，可以生成 Swift 友好的 API.
-SKIE 通过为 Kotlin 编译器创建的 Objective-C 头文件生成 Swift 包装器来提高 Kotlin 和 Swift 之间的互操作性。它重新创建了两种语言都支持的功能，这些功能在从 Kotlin 到 Objective-C 再到 Swift 的转换中丢失了，例如：</description>
+按照基本设置，将 Dagger 的处理器从 kapt 迁移到 ksp。 将任何 Dagger SPI 插件迁移到新的 Dagger SPI 插件 API。 确保没有 Kapt 处理器生成需要与 Dagger 交互的类。 需要注意的是，Dagger 的 KSP 处理器仍处于 alpha 阶段，官方目前主要关注的是确保正确性而不是优化性能，在使用的过程中有任何问题都可及时向官方反馈</description>
     </item>
     
     <item>
