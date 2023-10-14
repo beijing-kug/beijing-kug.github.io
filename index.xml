@@ -20,7 +20,8 @@ Kudos 是 Kotlin utilities for deserializing objects 的缩写。它可以解决
 在使用常见的 JSON 序列化框架解析 JSON 时，Kotlin 开发者通常会面临无参构造器和属性空安全的问题。我们通常的建议是使用 Moshi 或者 kotlinx.serialization。
 不过，切换框架往往并不容易。kotlinx.serialization 不支持 Java，适合纯 Kotlin 项目使用；Moshi 虽然也同时支持 Java，但它在解析时与 Gson 这样的框架在细节上仍然有不少差异。
 有没有什么办法为 Gson 这样的框架提供类型空安全和支持主构造器的参数默认值的能力呢？答案就是 Kudos。
-精选博客 Kotlin版本升级到1.9.0，需要做这些事&amp;hellip; 今日好奇：ChatGPT的Android端是用什么写的？ Kotlin的语法糖到底有多甜？ 精选视频 </description>
+精选博客 Kotlin版本升级到1.9.0，需要做这些事&amp;hellip; 本文记录了通用项目工程Kotlin版本由1.7升级到1.9版本的适配要点，落实到具体的项目工程需要具体处理其中的细节问题，具体包括以下内容：
+KAE 插件正式废弃，迁移到 ViewBinding KAPT 默认启用 JVM IR，当前需要关闭 外部枚举类external enum已弃用，新业务请使用外部密封类 external sealed 今日好奇：ChatGPT的Android端是用什么写的？ Kotlin的语法糖到底有多甜？ 精选视频 </description>
     </item>
     
     <item>
