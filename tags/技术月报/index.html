@@ -6,8 +6,8 @@ Kudos 是 Kotlin utilities for deserializing objects 的缩写。它可以解决
 在使用常见的 JSON 序列化框架解析 JSON 时，Kotlin 开发者通常会面临无参构造器和属性空安全的问题。我们通常的建议是使用 Moshi 或者 kotlinx.serialization。
 不过，切换框架往往并不容易。kotlinx.serialization 不支持 Java，适合纯 Kotlin 项目使用；Moshi 虽然也同时支持 Java，但它在解析时与 Gson 这样的框架在细节上仍然有不少差异。
 有没有什么办法为 Gson 这样的框架提供类型空安全和支持主构造器的参数默认值的能力呢？答案就是 Kudos。
-精选博客 Kotlin版本升级到1.9.0，需要做这些事… 本文记录了通用项目工程Kotlin版本由1.7升级到1.9版本的适配要点，落实到具体的项目工程需要具体处理其中的细节问题，具体包括以下内容：
-KAE 插件正式废弃，迁移到 ViewBinding KAPT 默认启用 JVM IR，当前需要关闭 外部枚举类external enum已弃用，新业务请使用外部密封类 external sealed 今日好奇：ChatGPT的Android端是用什么写的？ Kotlin的语法糖到底有多甜？ 精选视频</p></div><footer class=entry-footer><span title='2023-10-30 00:00:00 +0000 UTC'>October 30, 2023</span>&nbsp;·&nbsp;beijing-kug</footer><a class=entry-link aria-label="post link to Kotlin 技术月报 | 2023 年 10 月" href=https://beijing-kug.github.io/news/kotlin-news-2023-10/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Kotlin 技术月报 | 2023 年 9 月</h2></header><div class=entry-content><p>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+精选博客 Kotlin版本升级到1.9.0，需要做这些事… 本文记录了通用项目工程 Kotlin 版本由 1.7 升级到 1.9 版本的适配要点，落实到具体的项目工程需要具体处理其中的细节问题，具体包括以下内容：
+KAE 插件正式废弃，迁移到 ViewBinding KAPT 默认启用 JVM IR，当前需要关闭 外部枚举类external enum已弃用，新业务请使用外部密封类 external sealed 今日好奇：ChatGPT的Android端是用什么写的？ ChatGPT 自发布以来一直非常火爆，并已发布了 Android 版本，本文通过 LibChecker 等工具分析对比了 ChatGPT 与 文心一言 Android 版本的技术栈。经过分析，ChatGPT Android 版本主要基于 Jetpack Compose 构建，而文心一言仍然基于传统的 Android View 构建。可以看出，Jetpack Compose 在国外已经相当流行了，而在国内仍然有相当的发展空间。...</p></div><footer class=entry-footer><span title='2023-10-30 00:00:00 +0000 UTC'>October 30, 2023</span>&nbsp;·&nbsp;beijing-kug</footer><a class=entry-link aria-label="post link to Kotlin 技术月报 | 2023 年 10 月" href=https://beijing-kug.github.io/news/kotlin-news-2023-10/></a></article><article class="post-entry tag-entry"><header class=entry-header><h2>Kotlin 技术月报 | 2023 年 9 月</h2></header><div class=entry-content><p>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 1.9.20-Beta 发布 What’s new in Kotlin 1.9.20-Beta
 Kotlin 1.9.20-Beta 版本已发布，具体包括以下内容：
