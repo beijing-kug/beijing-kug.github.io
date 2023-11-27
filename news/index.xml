@@ -17,9 +17,9 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 1.9.20 版本发布 What&amp;rsquo;s new in Kotlin 1.9.20
 Kotlin 1.9.20 版本已发布，具体包括以下内容：
-K2 对所有目标平台的支持达到 beta 状态 Kotlin Multiplatform 达到稳定状态 全新的 Kotlin 多平台项目模板，减少配置中的重复代码 Kotlin 多平台插件添加了对 Gradle 配置缓存的完全支持 Kotlin/Native 默认使用新版内存分配器 Kotlin/Native 垃圾回收性能持续提升 添加了全新的 wasm-wasi 目标，并将原有的 wasm 目标重命名为 wasm-js 标准库添加了对 WASI API 的支持 Kotlin Multiplatform 已稳定并准备好投入生产使用 Kotlin Multiplatform Is Stable and Production-Ready
-经过多年的迭代，由 JetBrains 打造的开源技术 Kotlin 多平台（Kotlin Multiplatform）已经达到稳定状态并准备好投入生产使用。
-Kotlin Multiplatform 技术的核心由许多部分组成，例如编译器支持、语言功能、库 API、IDE、构建工具等。 这些部分覆盖了最热门的代码共享用例，并且在 Kotlin 1.9.20 中得到稳定。 “稳定”意味着 Jetbrains 在改进这些部分时将遵循严格的兼容性规则，从而使开发者能够信心满满地将其用于生产环境代码。</description>
+K2 对所有目标平台的支持达到 beta 状态 Kotlin Multiplatform 达到稳定状态 全新的 Kotlin 多平台项目模板，减少配置中的重复代码 Kotlin 多平台插件添加了对 Gradle 配置缓存的完全支持 Kotlin/Native 默认使用新版内存分配器 Kotlin/Native 垃圾回收性能持续提升 添加了全新的 wasm-wasi 目标，并将原有的 wasm 目标重命名为 wasm-js 标准库添加了对 WASI API 的支持 此外，本月 Kotlin 还发布了 1.9.21 小版本，主要是修复了一些 issue, 同时还解决了 kapt 与 java21 的兼容问题
+Kotlin Multiplatform 已稳定并准备好投入生产使用 Kotlin Multiplatform Is Stable and Production-Ready
+经过多年的迭代，由 JetBrains 打造的开源技术 Kotlin 多平台（Kotlin Multiplatform）已经达到稳定状态并准备好投入生产使用。</description>
     </item>
     
     <item>
