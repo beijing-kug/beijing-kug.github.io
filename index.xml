@@ -15,9 +15,10 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2023-12/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 2023 Kotlin 中文开发者大会 Kotlin 中文开发者大会是由 JetBrains 团队与中文 Kotlin User Group 合作举办的免费线上直播活动，活动将会由 Kotlin 团队与大家分享最新 Kotlin 新闻，并邀请社区的技术大佬分享最新前沿技术、实用的开发经验。
-今年 Kotlin 中文大会已于 12 月 16 日（六）及 12 月 17 日（日）两天进行线上直播，本次邀请到 16 位来自各公司的 Kotlin 技术专家，带来 Kotlin Multiplatform 的第一手案例实践、Kotlin 编译器核心讲解、使用 KSP 辅助开发、Kotlin 在后端的应用等话题。
-如有需要查看直播回放及讲师 PPT 也可见：https://blog.jetbrains.com/kotlin/2023/12/2023-kotlin-chinese-conference/</description>
+最新动态 Kotlin/Wasm 已进入 Alpha 阶段 Kotlin for WebAssembly Goes Alpha
+Kotlin/Wasm 是新推出的 Kotlin Multiplatform 目标平台，现已达到 Alpha 状态！具体包括以下更新：
+JetBrains 已将 Kotlin/Wasm 提升到 Alpha 版本，让您可以亲自上手尝试。 您的反馈将影响使用 Kotlin 构建 Web 应用程序的未来！ 作为 Alpha 版本，Kotlin/Wasm 已经可以在预生产场景中使用，但许多方面仍待完善。 我们需要社区的帮助来确定 Kotlin/Wasm 的相关决策并确定其优先级。 Compose for Web（目前处于实验阶段）由 Kotlin/Wasm 提供支持。 两种技术互相配合，让您完全使用 Kotlin 为 Web 应用程序创建声明式用户界面。 WebAssembly 从一开始就被设计为语言的编译目标，因此虽然 Kotlin/Wasm 仍处于 Alpha 阶段，但其在几乎所有宏基准测试中都已经优于 Kotlin/JS：
+精选博客 精选视频 社区活动 2023 Kotlin 中文开发者大会 Kotlin 中文开发者大会是由 JetBrains 团队与中文 Kotlin User Group 合作举办的免费线上直播活动，活动将会由 Kotlin 团队与大家分享最新 Kotlin 新闻，并邀请社区的技术大佬分享最新前沿技术、实用的开发经验。</description>
     </item>
     
     <item>
