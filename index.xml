@@ -6,7 +6,20 @@
     <description>Recent content on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2024 年 1 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2024-01/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2024-01/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 精选博客 精选视频 社区活动 最新！国内 Kotlin User Group 信息整理（2024.1） 无论你是在学习 Kotlin 的起步阶段，还是已经基本掌握 Kotlin 语法技能，追求更进一步的交流探索。一个紧密围绕 Kotlin 的用户社区，能为你的 Kotlin 之旅插上翱翔的翅膀。欢迎加入属于 Kotlin 开发者的社区——Kotlin User Group （KUG）。
+简而言之，KUG 是让 Kotlin 开发者和爱好者们聚在一起的技术社区。通过基于群聊的日常交流或不定期在线上/线下举办的技术讲座和沙龙，促进大家的知识分享和技能提升。你将可以在这个专注 Kotlin 的社区里学习最新的 Kotlin 开发技术，了解基于 Kotlin 的最佳实践，还有机会认识业界大咖，或是收获新的职业发展机会。
+截至目前，国内已有 21 个 KUG 成立，欢迎各个城市的 Kotlin 开发者加入社区。如果你所在的城市还没有 KUG，也欢迎你成立 KUG，我们将为你提供一系列的支持。</description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2023 年 12 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2023-12/</link>
