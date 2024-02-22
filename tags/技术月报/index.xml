@@ -17,7 +17,8 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 2.0.0-Beta4 版本发布 What&amp;rsquo;s new in Kotlin 2.0.0-Beta4
 Kotlin 2.0.0-Beta4 版本已发布，具体包括以下内容：
-K2 编译器的稳定性持续提升，自 1.9.20 起，K2 编译器的所有 target 都达到了 Beta 状态。 Gradle 构建工具方面的改进 Kotlin/JS 支持类型安全的纯 JavaScript 对象 Kotlin/JS 支持使用 npm 作为包管理器 Kotlln/JS 支持导出 List, Map, Set 等集合类型 精选博客 精选视频 社区活动 </description>
+K2 编译器的稳定性持续提升，自 1.9.20 起，K2 编译器的所有 target 都达到了 Beta 状态。 Gradle 构建工具方面的改进 Kotlin/JS 支持类型安全的纯 JavaScript 对象 Kotlin/JS 支持使用 npm 作为包管理器 Kotlln/JS 支持导出 List, Map, Set 等集合类型 精选博客 精选视频 社区活动 邀请函 | JetBrains 联合上海 KUG，仅限开发者参加的返工派对！ 龙年伊始，邀你赴一场专属开发者的派对。Kotlin 社区伙伴贡献硬核技术分享，JetBrains 大咖漂洋过海和你面对面，为你新年加足“码”力！具体将为你带来以下分享
+《Kotlin + 复合构建组织工程结构》 《AGP 在包体积优化上的应用》 《内部视角看 Kotlin 是如何发展的》 《基于 IntelliJ 的 IDE 的性能优化演变》 《Fleet 最新进展》 </description>
     </item>
     
     <item>
