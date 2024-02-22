@@ -15,7 +15,9 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-02/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 Kotlin 2.0.0-Beta4 版本发布 What&amp;rsquo;s new in Kotlin 2.0.0-Beta4
+Kotlin 2.0.0-Beta4 版本已发布，具体包括以下内容：
+K2 编译器的稳定性持续提升，自 1.9.20 起，K2 编译器的所有 target 都达到了 Beta 状态。 Gradle 构建工具方面的改进 Kotlin/JS 支持类型安全的纯 JavaScript 对象 Kotlin/JS 支持使用 npm 作为包管理器 Kotlln/JS 支持导出 List, Map, Set 等集合类型 精选博客 精选视频 社区活动 </description>
     </item>
     
     <item>
