@@ -17,9 +17,9 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 2.0.0-Beta4 版本发布 What&amp;rsquo;s new in Kotlin 2.0.0-Beta4
 Kotlin 2.0.0-Beta4 版本已发布，具体包括以下内容：
-K2 编译器的稳定性持续提升，自 1.9.20 起，K2 编译器的所有 target 都达到了 Beta 状态。 Gradle 构建工具方面的改进 Kotlin/JS 支持类型安全的纯 JavaScript 对象 Kotlin/JS 支持使用 npm 作为包管理器 Kotlln/JS 支持导出 List, Map, Set 等集合类型 Jetpack Lifecycle 支持 Koltin 跨平台 Jetpack Lifecycle 支持 Koltin 跨平台
-Lifecycle 库支持 Kotlin 跨平台，Lifecycle、LifecycleOwner、LifecycleObserver、Lifecycle.State、Lifecycle.Event 和 LifecycleRegistry 中的核心 Lifecycle API 现在包含在与 Kotlin Multiplatform 兼容的工件中
-精选博客 使用 @JsExport 将 Kotlin 导出给 JS 的指南 @JsExport guide for exposing Kotlin to JS</description>
+K2 编译器的稳定性持续提升，自 1.9.20 起，K2 编译器的所有 target 都达到了 Beta 状态。 Gradle 构建工具方面的改进 Kotlin/JS 支持类型安全的纯 JavaScript 对象 Kotlin/JS 支持使用 npm 作为包管理器 Kotlln/JS 支持导出 List, Map, Set 等集合类型 Amper 2024 年 2 月更新 Amper 是 Jetbrains 开发的一个项目配置工具。它的目标是改善项目配置的用户体验和可工具性，即 IDE 内部的支持，同时提供流畅的开箱即用体验。
+Amper 0.2.0 版本已发布，并带来了一些新的特性：
+支持 Gradle version catalogs 支持依赖补全 支持在 IDEA 中创建 Amper 项目 支持 Fleet, IntelliJ IDEA, 与 Android Studio 等 IDE Jetpack Lifecycle 支持 Koltin 跨平台 Jetpack Lifecycle 支持 Koltin 跨平台</description>
     </item>
     
     <item>
