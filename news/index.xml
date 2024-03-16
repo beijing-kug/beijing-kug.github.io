@@ -15,7 +15,8 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-03/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 精选博客 Kotlin Multiplatform 初探 众所周知，Kotlin 是一门跨平台的语言，它可以在 JVM、Android、iOS、Web、Native 等多个平台上运行。Kotlin Multiplatform 是 Kotlin 的一个重要特性，它可以让我们在一个项目中编写一份代码，然后在多个平台上运行。本文将带你初探 Kotlin Multiplatform。具体包括如下内容：
+Kotlin Multiplatform 是什么？ KMP的优势是什么 一个简单的demo KMP 实现原理 KMP生态 业界案例 精选视频 社区活动 </description>
     </item>
     
     <item>
