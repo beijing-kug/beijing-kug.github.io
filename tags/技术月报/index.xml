@@ -15,7 +15,9 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-04/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 IntelliJ IDEA 已支持开启 K2 模式 K2 Kotlin Mode (Alpha) in IntelliJ IDEA
+从2024.1版本开始，IntelliJ IDEA 提供了一个可选的 K2 模式，开启 K2 模式后将获得以下收益：
+Kotlin 新特性支持：新模式将支持仅在 K2 Kotlin 编译器中提供的未来语言特性。 代码分析的稳定性：得益于架构的重构，IDE 功能的质量和可靠性应该会得到提升，代码分析也将更加稳定。 更优的 IDE 性能：Kotlin 代码高亮和 Kotlin 代码补全的速度已显著提高。 精选博客 精选视频 社区活动 </description>
     </item>
     
     <item>
