@@ -20,7 +20,8 @@
 Kotlin 新特性支持：新模式将支持仅在 K2 Kotlin 编译器中提供的未来语言特性。 代码分析的稳定性：得益于架构的重构，IDE 功能的质量和可靠性应该会得到提升，代码分析也将更加稳定。 更优的 IDE 性能：Kotlin 代码高亮和 Kotlin 代码补全的速度已显著提高。 全行代码补全：新版 JetBrains IDE 自带的 AI 神器 AI 编程仍然是一个众说纷纭的话题，但越来越多的开发者开始将 AI 融入他们的日常工作流中。
 JetBrains IDE v2024.1 版本中推出了一项新功能：全行代码补全。这个功能利用AI技术，在本地运行，不需要互联网连接，也不会发送任何数据到互联网上。它支持多种编程语言，包括Java、Kotlin、Python等，并且已经集成到多个JetBrains IDE中，如IntelliJ IDEA、PyCharm等。
 全行代码补全功能已包含在 JetBrains IDE 的有效订阅中，无需额外费用，只需确保您使用的是 v2024.1 或更高版本即可。
-精选博客 使用KMP &amp;amp; Compose开发鸿蒙应用 HarmonyOS NEXT 不再支持 AOSP，仅支持鸿蒙内核和鸿蒙系统的应用，各大 App 也纷纷投入到了原生鸿蒙应用的开发中。开发者需要考虑的平台已经从原来的双端演变为三端。这无疑将增加研发的复杂性和成本，由此可以预见的是未来对于跨端代码复用的诉求将越发强烈。</description>
+Kotlin 2.0.0-RC1 版本已发布 What&amp;rsquo;s new in Kotlin 2.0.0-RC1
+Kotlin 2.</description>
     </item>
     
     <item>
