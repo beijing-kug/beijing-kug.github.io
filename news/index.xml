@@ -18,6 +18,7 @@
 最新动态 Jetpack Compose 编译器插件代码迁移到 Kotlin 仓库中 随着 Kotlin 2.0 的即将发布，Jetpack Compose 编译器插件的代码也将迁移到 Kotlin 仓库中。
 这意味着每次 Kotlin 发布新版本时，都会有一个相应的 Compose 编译器插件同时发布。您在升级 Compose 应用中的 Kotlin 版本之前，将不再需要等待相应的 Compose 编译器插件发布。
 Compose 编译器插件的版本将 Kotlin 版本相匹配。因此，编译器插件版本将跳至 2.0.0。
+Room 支持 Kotlin 跨平台 Room 库已支持 Kotlin 跨平台，更多详细信息可见：https://developer.android.com/kotlin/multiplatform/room
 精选博客 社区活动 </description>
     </item>
     
