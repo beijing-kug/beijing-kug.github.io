@@ -6,7 +6,22 @@
     <description>Recent content in Events on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>活动回顾 | 2024 KotlinConf Global 北京分享会</title>
+      <link>https://beijing-kug.github.io/events/kotlinconf-2024-callback/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/events/kotlinconf-2024-callback/</guid>
+      <description>2024 KotlinConf Global 北京分享会结束了，感谢所有参与其中的讲师、参会者、工作人员。
+我们将讲师的演讲视频与讲义发布在 B 站与谷歌 drive ，方便大家回顾
+演讲回看 KotlinConf 2024 Copenhagen 场见闻 今年刘银龙老师前往 Copenhagen 现场参加了 KotlinConf，在本次 Global 活动与大家分享交流了这次美妙的旅程，包括前期准备、现场见闻、个人感受等，还有带回来的Kotlin周边纪念品等与大家分享。
+《KotlinConf 2024 Copenhagen 场见闻》 PPT 链接
+鸿蒙 KMP &amp;amp; Compose 探索 鸿蒙不再支持 AOSP 之后，客户端从双端演变为三端，可以预见未来对于跨端代码复用的需求将愈发强烈。作为 Android 开发者的我们，是否可以低成本的利用现有技术栈实现鸿蒙跨端开发呢？本次分享介绍了 KMP 在鸿蒙上的接入，并探索 Compose 在鸿蒙上应用的可能性，希望在鸿蒙跨平台能力上能够给大家带来一些新的思路与方向。
+《鸿蒙 KMP &amp;amp; Compose 探索》 PPT 链接
+KMP 到鸿蒙：基于 Cinterop 和 KSP 简化跨语言交互的实践 KMP 应用到鸿蒙平台涉及 ArkTS &amp;lt;-&amp;gt; C &amp;lt;-&amp;gt; Kotlin 的跨语言交互，跨语言交互有很多难点，接口、List、Map 等非基本类型支持难度大，内存管理成问题，桥接代码复杂难写。本次分享主要介绍快手团队基于 KMP 提供的 Cinterop 工具简化 ArkTS &amp;lt;-&amp;gt; C &amp;lt;-&amp;gt; Kotlin 的跨语言交互流程，并基于 KSP 自动生成跨语言桥接代码的实践。</description>
+    </item>
+    
     <item>
       <title>线下活动 | 2024 KotlinConf Global 北京分享会</title>
       <link>https://beijing-kug.github.io/events/kotlinconf-2024/</link>
