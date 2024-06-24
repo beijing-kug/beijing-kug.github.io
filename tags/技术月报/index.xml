@@ -15,7 +15,14 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-06/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 精选视频 社区活动 </description>
+最新动态 KotlinConf 分享回放已全部发布 All KotlinConf Recordings Are Now Available. Enjoy!
+现在，您可以在 KotlinConf 官方网站上找到 KotlinConf’24 的所有回放：https://kotlinconf.com/talks/
+Kotlin 2.0.20-Beta1 版本已发布 Kotlin 2.0.20-Beta1 版本已发布，更新内容也主要是一些 bug 修复：https://github.com/JetBrains/kotlin/releases
+你可能会好奇，为什么 2.0.10 还没有发布就发布了 Kotlin 2.0.20-Beta1? 还会有 2.0.10 吗?
+自 Kotlin 2.0.0 起，Jetbrains 发布以下类型的版本：
+语言版本（2.x.0），带来语言的重大变化并包括工具更新。每6个月发布一次。 工具版本（2.x.20），在语言版本之间发布，包括工具更新、性能改进和错误修复。在相应的语言版本发布后3个月发布。 错误修复版本（2.x.yz），包括针对工具版本的错误修复。这些版本没有确切的发布时间表。 对于每个语言和工具版本，Jetbrains 还会发布几个预览（EAP）版本，供您在正式发布之前尝试新功能。因此不必担心，Kotlin 2.0.10 版本将随后发布。
+精选博客 联合类型可能为类型系统带来的一些问题 The problem of union types for type systems
+精选视频 社区活动 </description>
     </item>
     
     <item>
