@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://beijing-kug.github.io/news/kotlin-news-2024-06/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://beijing-kug.github.io/news/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://beijing-kug.github.io/tags/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://beijing-kug.github.io/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://beijing-kug.github.io/events/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://beijing-kug.github.io/tags/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://beijing-kug.github.io/tags/%E5%88%86%E4%BA%AB%E4%BC%9A/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://beijing-kug.github.io/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/events/kotlinconf-2024-callback/</loc>
@@ -21,12 +30,6 @@
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/news/kotlin-news-2024-05/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://beijing-kug.github.io/news/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://beijing-kug.github.io/news/kotlin-news-2024-04/</loc>
