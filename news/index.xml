@@ -6,7 +6,23 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2024 年 7 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2024-07/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2024-07/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 Kotlin 2.0.10-RC 版本已发布 https://github.com/JetBrains/kotlin/releases/tag/v2.0.10-RC
+Kotlin 2.0.10-RC 版本已发布，2.0.10 版本是 2.0 系列的第一个错误修复版本，此版本的主要目标是修复 2.0.0 版本中发现的错误，而 RC 版本的发布也预示着 2.0.10 版本即将正式发布，想要升级到 Kotlin 2.0 但有所顾虑的开发者可以尝试这个版本。
+Xcode-Kotlin 2.0 发布 Xcode-Kotlin 2.0 Release
+Xcode-Kotlin 是 touchlab 开发的一个插件，允许开发者直接在 Xcode 中调试在 iOS 应用程序中运行的 Kotlin 代码。这为使用 Kotlin 共享代码的 iOS 开发人员提供了更流畅的开发和集成体验，对于并非每个人都直接编辑共享代码的大型团队来说，体验也更加便捷。
+Xcode-Kotlin 2.0 已发布，具体包括以下更新：
+显著提高了调试性能（快达 5 倍）。 扩展了每个帧变量的信息。 可以在 Swift、Kotlin 和 Objective-C 代码中使用。 内置支持 List 和 Map，并且更多的支持正在开发中（例如 StateFlow，Set）。 精选博客 精选视频 社区活动 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2024 年 6 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2024-06/</link>
