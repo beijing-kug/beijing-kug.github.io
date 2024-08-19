@@ -20,7 +20,8 @@ https://github.com/JetBrains/kotlin/releases/tag/v2.0.10
 Kotlin 2.0.20-RC 已发布 https://kotlinlang.org/docs/whatsnew-eap.html
 Kotlin 2.0.20-RC 版本也已经发布了，此版本的亮点主要包括：
 – Kotlin 语言方面：数据类的 copy 函数将具有与构造函数相同的可见性
-Kotlin 语言方面：Context receiver 被废弃，引入 context parameters 作为替代方案 – Kotlin/Native：垃圾收集器支持并发标记，提升 Kotlin/Native 运行时性能 – Gradle 改进：添加对 Gradle 8.6 到 8.8 版本的支持 Context receiver 精选博客 精选视频 Context parameters from the language design perspective Context parameters from the language design perspective | Anastasiia Nekrasova</description>
+Kotlin 语言方面：Context receiver 被废弃，引入 context parameters 作为替代方案 – Kotlin/Native：垃圾收集器支持并发标记，提升 Kotlin/Native 运行时性能 – Gradle 改进：添加对 Gradle 8.6 到 8.8 版本的支持 Context receiver 精选博客 精选视频 从语言设计的角度看 Context parameters Context parameters from the language design perspective | Anastasiia Nekrasova
+Context parameters 是 Kotlin 最受期待的特性之一。去年，Kotlin 团队发布了一个初步版本，并收到了大量反馈。从那时起，Kotlin 团队一直在努力完善其设计。本视频概述了Context parameters 当前设计状态，具体包括以下内容：</description>
     </item>
     
     <item>
