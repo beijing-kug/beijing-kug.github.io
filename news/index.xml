@@ -17,11 +17,12 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 2.0.10 已正式发布 Kotlin 2.0.10 现已正式发布。2.0.10 版本是 2.0 系列的第一个错误修复版本，此版本的主要目标是修复 2.0.0 版本中发现的错误。有关更多详细信息，请点击下面的链接查看 GitHub 上的发行说明。
 https://github.com/JetBrains/kotlin/releases/tag/v2.0.10
-Kotlin 2.0.20-RC 已发布 https://kotlinlang.org/docs/whatsnew-eap.html
-Kotlin 2.0.20-RC 版本也已经发布了，此版本的亮点主要包括：
+Kotlin 2.0.20 已发布 https://blog.jetbrains.com/kotlin/2024/08/kotlin-2-0-20-released/
+Kotlin 2.0.20 版本也已经发布了，此版本的亮点主要包括：
 – Kotlin 语言方面：数据类的 copy 函数将具有与构造函数相同的可见性
-Kotlin 语言方面：Context receiver 被废弃，引入 context parameters 作为替代方案 – Kotlin/Native：垃圾收集器支持并发标记，提升 Kotlin/Native 运行时性能 – Gradle 改进：添加对 Gradle 8.6 到 8.8 版本的支持 Context receiver 精选博客 精选视频 从语言设计的角度看 Context parameters Context parameters from the language design perspective | Anastasiia Nekrasova
-Context parameters 是 Kotlin 最受期待的特性之一。去年，Kotlin 团队发布了一个初步版本，并收到了大量反馈。从那时起，Kotlin 团队一直在努力完善其设计。本视频概述了Context parameters 当前设计状态，具体包括以下内容：</description>
+Kotlin 语言方面：Context receiver 被废弃，引入 context parameters 作为替代方案 – Kotlin/Native：垃圾收集器支持并发标记，提升 Kotlin/Native 运行时性能 – Gradle 改进：添加对 Gradle 8.6 到 8.8 版本的支持 Ktor 相关的更新 https://blog.jetbrains.com/kotlin/2024/08/kotlin-roundup-ktor-in-focus/
+本月 Kotlin 团队也带来了关于 Ktor 的更新，Ktor 是一个用于构建异步服务器和客户端的框架。本文介绍了 Ktor 的一些新特性，包括：
+Ktor 3.0.0 Beta-2的发布：支持Kotlin 2.0，新的 kotlinx.io 库，改进的 HTTP 错误处理和 Ktor客户端支持 Kotlin/Wasm Ktor 生成器的更新：更新后的生成器提供了简便的项目配置和一键预览功能 Ktor 教程的更新：提供了更精确的指导和示例，以提供更加简洁和用户友好的体验 精选博客 精选视频 从语言设计的角度看 Context parameters Context parameters from the language design perspective | Anastasiia Nekrasova</description>
     </item>
     
     <item>
