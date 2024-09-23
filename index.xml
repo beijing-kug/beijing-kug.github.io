@@ -15,8 +15,11 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-09/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 在跨平台领域中，Kotlin 多平台对于你的下一个应用来说是正确的选择吗？ In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application? 本文介绍了 Kotlin Multiplatform 在跨平台开发中的优势，包括轻松转换现有 Android 项目、无需学习新语言、灵活共享代码等。同时与 Flutter 和 React Native 进行比较，在性能、社区生态和学习曲线方面各有特点。结论认为 Kotlin Multiplatform 是跨平台开发的有力选择，虽面临竞争但前景广阔。
-性能方面：与 Flutter 和 React Native 相比，Kotlin Multiplatform 可直接访问原生 API，性能更好，而 Flutter 和 React Native 因使用额外层或引擎可能存在性能和效率问题。 社区生态：Flutter 和 React Native 社区更大、更活跃，有众多插件和库；Kotlin Multiplatform 相对较新，但有 Google 和 JetBrains 支持，也有一些框架和库。 学习曲线：熟悉 Kotlin 的团队学 Kotlin Multiplatform 相对容易；熟悉 JavaScript 和 React 的团队适合 React Native；Flutter 的 Dart 语言对部分开发者有学习曲线。 精选视频 Kotlin 纪录片：探寻 Kotlin 成功之外的故事 Beyond The Success Of Kotlin / The Documentary by EngX</description>
+最新动态 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！ 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！
+Kotlin 多平台竞赛 Kotlin Multiplatform Contest 你尝试过使用 Kotlin 多平台构建项目吗？Kotlin 多平台可以让你为 Android、iOS、桌面、网络和服务器创建应用程序 —— 所有这些都使用共享的 Kotlin 代码！
+Kotlin 基金会为学生和应届毕业生推出了 Kotlin 多平台竞赛。通过使用 Kotlin 多平台构建一个跨平台项目来展示你的编码技能，并有机会赢得 KotlinConf 2025 之旅。
+精选博客 在跨平台领域中，Kotlin 多平台对于你的下一个应用来说是正确的选择吗？ In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application?
+本文介绍了 Kotlin Multiplatform 在跨平台开发中的优势，包括轻松转换现有 Android 项目、无需学习新语言、灵活共享代码等。同时与 Flutter 和 React Native 进行比较，在性能、社区生态和学习曲线方面各有特点。结论认为 Kotlin Multiplatform 是跨平台开发的有力选择，虽面临竞争但前景广阔。</description>
     </item>
     
     <item>
