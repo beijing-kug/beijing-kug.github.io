@@ -15,10 +15,8 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-09/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 在跨平台领域中，Kotlin 多平台对于你的下一个应用来说是正确的选择吗？ In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application?
-精选视频 Kotlin 纪录片：探寻 Kotlin 成功之外的故事 Beyond The Success Of Kotlin / The Documentary by EngX
-大约 15 年前，JetBrains 的一个小工程团队开始了一项看似疯狂的努力 —— 创造他们自己的编程语言并取得成功。在 21 世纪 10 年代初，Java 是最流行的语言之一，被数百万工程师使用。然而，它已经好几年没有进行重大更新了，并且缺乏新特性。开发人员正在寻找一种新的解决方案。
-许多工程师试图通过创建新的 JVM 语言来提供 Java 的替代方案。这是一个创造能够影响整个行业的工具的短暂机会之窗。Kotlin 的故事就是这样开始的。是什么促成了 Kotlin 的成功？它在行业中赢得一席之地又付出了什么代价呢？在这部纪录片中，你将从源头听到这个故事。</description>
+最新动态 精选博客 在跨平台领域中，Kotlin 多平台对于你的下一个应用来说是正确的选择吗？ In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application? 本文介绍了 Kotlin Multiplatform 在跨平台开发中的优势，包括轻松转换现有 Android 项目、无需学习新语言、灵活共享代码等。同时与 Flutter 和 React Native 进行比较，在性能、社区生态和学习曲线方面各有特点。结论认为 Kotlin Multiplatform 是跨平台开发的有力选择，虽面临竞争但前景广阔。
+性能方面：与 Flutter 和 React Native 相比，Kotlin Multiplatform 可直接访问原生 API，性能更好，而 Flutter 和 React Native 因使用额外层或引擎可能存在性能和效率问题。 社区生态：Flutter 和 React Native 社区更大、更活跃，有众多插件和库；Kotlin Multiplatform 相对较新，但有 Google 和 JetBrains 支持，也有一些框架和库。 学习曲线：熟悉 Kotlin 的团队学 Kotlin Multiplatform 相对容易；熟悉 JavaScript 和 React 的团队适合 React Native；Flutter 的 Dart 语言对部分开发者有学习曲线。 精选视频 Kotlin 纪录片：探寻 Kotlin 成功之外的故事 Beyond The Success Of Kotlin / The Documentary by EngX</description>
     </item>
     
     <item>
