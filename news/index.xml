@@ -17,12 +17,10 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin 2.1.0-Beta1 版本已发布 https://kotlinlang.org/docs/whatsnew-eap.html
 Kotlin 2.1.0-Beta1 版本已发布，此版本包含了一些新功能和改进，具体包括以下内容：
-新语言特性的预览 改进的 K2 kapt 实现 Kotlin/Native LLVM 版本升级至 16.0.0 Gradle 相关改进 Compose 编译器插件相关的更新 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！ 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！
-Kotlin 多平台竞赛 Kotlin Multiplatform Contest
-你尝试过使用 Kotlin 多平台构建项目吗？Kotlin 多平台可以让你为 Android、iOS、桌面、网络和服务器创建应用程序 —— 所有这些都可以使用共享的 Kotlin 代码！
-Kotlin 基金会为学生和应届毕业生推出了 Kotlin 多平台竞赛。通过使用 Kotlin 多平台构建一个跨平台项目，展示你的创造力和编码技能，并赢得一次前往 KotlinConf 2025 的机会，这是本年度最大的 Kotlin 盛会。
+新语言特性的预览 SubclassOptInRequired 注解的引入 改进的 K2 kapt 实现 Kotlin/Native LLVM 版本升级至 16.0.0 Gradle 相关改进 Compose 编译器插件相关的更新 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！ 开发者的提效神器 —— JetBrains AI Assistant 即刻启动！
 Compose 1.7.0 版本正式发布 https://developer.android.google.cn/jetpack/androidx/releases/compose-ui
-Compose 1.7.0 版本已发布，此版本包含了一些新功能和改进，具体包括以下内容：</description>
+Compose 1.7.0 版本已发布，此版本包含了一些新功能和改进，具体包括以下内容：
+新增共享元素过渡、懒加载列表项动画、文本新特性、上下文流布局等特性。 性能的持续提升，首帧性能相比 1 月版本提升 17%，强跳过模式从实验状态转为生产就绪状态，Compose 编译器将从 Kotlin 2.0 起托管在 Kotlin 仓库中，便于升级 Kotlin 版本。 同时介绍了 Compose 对 Android 设备生态系统的支持，如 Navigation Compose 的类型安全导航和 CameraX Compose 的新功能 精选博客 在跨平台领域中，Kotlin 多平台对于你的下一个应用来说是正确的选择吗？ In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application?</description>
     </item>
     
     <item>
