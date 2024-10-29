@@ -19,7 +19,8 @@
 Kotlin 2.1.0-Beta2 版本已发布，该版本带来了一些重要的改进和新功能，具体包括以下内容：
 新语言特性的预览 改进了泛型类型函数的重载解析 SubclassOptInRequired 注解的引入 改进的 K2 kapt 实现 Kotlin/Native LLVM 版本升级至 16.0.0 Gradle 相关改进 Compose 编译器插件相关的更新 Compose Multiplatform 1.7.0 版本已发布 Compose Multiplatform 1.7.0 Released
 Compose Multiplatform 1.7.0 版本已发布，该版本带来了一些重要的改进和新功能，具体包括以下内容：
-Material3 adaptive和 WindowSizeClass现在可用于通用代码中。 Compose Multiplatform 现在支持为navigation graph提供编译时安全性。 Compose Multiplatform 1.7.0 与 Kotlin 2.0.20 搭配使用，在 iOS 上的性能表现显著优于之前版本的组合，运行更快、更流畅。 开发者如何参与 Kotlin 的演进？ The Evolution of the Kotlin Language and How You Can Contribute</description>
+Material3 adaptive和 WindowSizeClass现在可用于通用代码中。 Compose Multiplatform 现在支持为navigation graph提供编译时安全性。 Compose Multiplatform 1.7.0 与 Kotlin 2.0.20 搭配使用，在 iOS 上的性能表现显著优于之前版本的组合，运行更快、更流畅。 2025 Kotlin Multiplatform 发展路线图 文章介绍了 Kotlin Multiplatform 在 2025 年的发展路线图，具体包括以下方面：
+Compose Multiplatform：致力于使 Compose Multiplatform 成为能创建美观且高性能应用的框架，确保在所有支持平台上保持一致外观。重点是将 iOS 目标推进到稳定版本，iOS 渲染性能、核心组件功能完整性、与原生视图的互操作性、框架整体稳定性、文档等。 Tooling：致力于为 Kotlin Multiplatform 提供出色的开发体验，减少开发者在不同 IDE 之间切换的需求，实现无缝集成的工作流程，计划发布独立的 KMP IDE。 Kotlin-to-Swift export：快速推进 Kotlin 到 Swift 的直接导出，2025 年目标是发布第一个公开版本，提供与现有 Objective-C 导出相当的用户体验并克服其限制，以实现更广泛的 Swift 语言支持和更无缝的 API 导出。 Library ecosystem：计划改进 klib 格式、实现与 JVM 相同的代码内联行为、提供确保多平台库公共 API 兼容的工具，还将改进发布过程，包括提供创建和发布 KMP 库的模板和指南等。 Amper：将专注于使 Amper 完全适用于 Android 和 iOS 多平台移动应用开发，包括运行和测试应用、签署和发布应用，以及探索服务器端开发场景。 Gradle 和其他构建工具：在 Gradle 增强方面，将支持在项目级别声明 Kotlin Multiplatform 依赖项、改进 Kotlin/Native 工具链与 Gradle 的集成、实现多平台库的下一代分发格式等。 精选博客 Kotlin 多平台开发者路线图 https://github.</description>
     </item>
     
     <item>
