@@ -6,7 +6,19 @@
     <description>Recent content in 技术月报 on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2024 年 11 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2024-11/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2024-11/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 精选博客 Kotlin 协程源码的地图：如何读源码才不会迷失？ Kotlin 协程是 Kotlin 的重要特性，为了彻底掌握 Kotlin 协程，我们不仅要知其然，更要知其所以然。这篇文章主要介绍了 Kotlin 协程源码的研究方法：
+第一点：理解Kotlin协程的源码结构。Kotlin协程的源代码，其实分布在多个模块之中，各个模块之中，会包含特定的协程概念。相应的，它的各个概念，其实是有特定的层级结构的，我们只有弄清楚各个概念之间的关系，并且建立一个类似“地图”的知识结构，我们在研究源码的时候，才不会那么容易迷失。 第二点：明确研究源码的目标。正如我们前面提到的，我们不可能一次性看完协程所有的源代码，因此，我们在读源码的过程中，一定要有明确的目的。 精选视频 社区活动 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2024 年 10 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2024-10/</link>
