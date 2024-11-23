@@ -15,14 +15,11 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-11/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 Kotlin Scripting 2024 现状 State of Kotlin Scripting 2024
+最新动态 Kotlin Multiplatform 未来将采用基于 JetBrains Fleet 定制的独立 IDE 2025 Kotlin Multiplatform 发展路线图中指出，Kotlin 团队致力于为 Kotlin Multiplatform 提供出色的开发体验，减少开发者在不同 IDE 之间切换的需求，实现无缝集成的工作流程，计划发布独立的 KMP IDE。
+KMP 独立 IDE 将基于 JetBrains Fleet 定制，提供更好的 Kotlin Multiplatform 开发体验，包括：
+开发人员不再需要在不同的 IDE 之间切换调试 增强的语言支持，例如在 Kotlin 和 Swift 等语言的高亮和代码提示，错误提醒等 创建统一的工作流程，在统一 IDE 里提高工作效率 未来不排除增加云计算机构建 iOS，帮助没有本地 Apple 设备的开发人员 尝试更深入的 AI 工具集成 Kotlin Scripting 2024 现状 State of Kotlin Scripting 2024
 Kotlin Scripting 技术，具备在无需预先历经编译或打包成可执行文件的流程下，便能直接将 Kotlin 代码当作脚本予以执行的能力。
-JetBrains 针对 Kotlin Scripting 的实际运用状况开展了深入的调研与剖析，所获结论显示，除了诸如 Gradle 构建脚本这类占据主导地位的应用场景之外，Kotlin Scripting 的普及程度远未达预期水平，其实际应用场景颇为有限。
-尤其值得注意的是，Kotlin 并非传统意义上的解释型语言，这一特性致使它难以达成专用脚本语言所特有的典型用户体验。为了能够模拟出当下类似脚本的行为表现，Kotlin 不得不在后台悄然进行代码的编译操作。然而，由于 Kotlin 编译器在初始设计之时并未充分考量此类应用场景，致使该编译过程极为繁重且复杂。
-基于上述种种情形，JetBrains 最终做出决策：尽管在未来仍会持续为 Kotlin 脚本的编写工作给予支持，涵盖对基本 “.kts” 文件的编译与执行，以及针对自定义脚本的相关操作等方面，但就当下而言，并不打算将 Kotlin 脚本推举为一种能够广泛适用于各类场景的通用脚本解决方案，例如，将其作为 Bash 或 Python 的等效替代品来进行推荐。
-精选博客 Kotlin 协程源码的地图：如何读源码才不会迷失？ Kotlin 协程是 Kotlin 的重要特性，为了彻底掌握 Kotlin 协程，我们不仅要知其然，更要知其所以然。这篇文章主要介绍了 Kotlin 协程源码的研究方法：
-第一点：理解Kotlin协程的源码结构。Kotlin协程的源代码，其实分布在多个模块之中，各个模块之中，会包含特定的协程概念。相应的，它的各个概念，其实是有特定的层级结构的，我们只有弄清楚各个概念之间的关系，并且建立一个类似“地图”的知识结构，我们在研究源码的时候，才不会那么容易迷失。 第二点：明确研究源码的目标。正如我们前面提到的，我们不可能一次性看完协程所有的源代码，因此，我们在读源码的过程中，一定要有明确的目的。 精选视频 社区活动 KotlinConf 征搞现已启动 KotlinConf CfP is now open
-KotlinConf 是由 JetBrains 举办的官方会议。它致力于 Kotlin 编程语言，是社区聚集并讨论所有与 Kotlin 相关事物的地方。</description>
+JetBrains 针对 Kotlin Scripting 的实际运用状况开展了深入的调研与剖析，所获结论显示，除了诸如 Gradle 构建脚本这类占据主导地位的应用场景之外，Kotlin Scripting 的普及程度远未达预期水平，其实际应用场景颇为有限。</description>
     </item>
     
     <item>
