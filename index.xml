@@ -15,7 +15,10 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2024-12/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 社区活动 </description>
+最新动态 推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 Kotlin Multiplatform¹ 正在迅速发展，生态系统不断扩大，仅在 2024 年，库的数量就增加了 35%。虽然可用库数远超往日，但找到适合您的用例和目标平台的库仍是一项挑战。
+为此，JetBrains 推出了 klibs.io，这项新服务旨在提高查找 Kotlin Multiplatform 库的速度和简便性。
+Klibs.io 是一项简单的 Web 服务，利用这项服务，您可以找到支持所选平台（JVM、Android JVM、Wasm、JS、Kotlin/Native）并且适用于特定目的的 Kotlin Multiplatform 库。网站会对 GitHub 和 Maven Central 中的数据编制索引，并使用 AI 生成的元数据增强搜索结果。它旨在通过提供与 KMP 相关的信息来降低评估库的难度。
+精选博客 社区活动 </description>
     </item>
     
     <item>
