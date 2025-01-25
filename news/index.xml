@@ -15,8 +15,8 @@
       <guid>https://beijing-kug.github.io/news/kotlin-news-2025-01/</guid>
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-最新动态 精选博客 社区活动 Kotlin 中文开发者大会视频回放 Kotlin 中文开发者大会视频回放已发布，欢迎点击以下链接观看：
-腾讯视频使用 KMP Compose 适配鸿蒙的实践 BiliBili 的鸿蒙之路：从 Kotlin/JS 到 Kotlin/Native 的进化之路 快手团队的 KMP 鸿蒙落地实践 NTCompose：一个基于 KMP 及 Compose 范式和原生渲染的多平台开发框架 </description>
+最新动态 Kotlin 2.1.20-Beta1 已发布 What&amp;rsquo;s new in Kotlin 2.1.20-Beta1
+IDE 支持：支持 2.1.20-Beta1 的 Kotlin 插件捆绑在最新的 IntelliJ IDEA 和 Android Studio 中，无需在 IDE 中更新插件，只需在构建脚本中更改 Kotlin 版本为 2.1.20-Beta1。 Kotlin K2 编译器新特性：从 Kotlin 2.1.20-Beta1 开始，K2 实现的 kapt 编译器插件对所有项目默认启用。自 Kotlin 1.9.20 推出新的 kapt 插件实现以来，团队不断改进其内部实现，使其行为与 K1 kapt 相似并显著提高性能，遇到问题可暂时恢复到以前的插件实现并向问题跟踪器报告。 Gradle 支持情况：Kotlin 2.1.20-Beta1 与最新稳定版 Gradle 8.11 兼容并支持其功能，Gradle 8.7 至 8.11 版本均受支持，但使用 Kotlin 多平台 Gradle 插件时在 JVM 目标中调用 withJava () 函数可能会出现弃用警告，团队计划尽快修复。 此外 Kotlin 2.</description>
     </item>
     
     <item>
