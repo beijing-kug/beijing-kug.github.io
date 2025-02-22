@@ -17,9 +17,8 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 OpenAI vs. DeepSeek: 哪个 AI 更懂 Kotlin？ OpenAI vs. DeepSeek: Which AI Understands Kotlin Better?
 JetBrains Research 测试了包括 DeepSeek&amp;ndash;R1 和多个 OpenAI 模型在内的人工智能模型对 Kotlin 的理解能力，使用了 KotlinHumanEval 和新的 Kotlin_QA 基准测试。用于对比评测哪个 AI 更懂 Kotlin。
-精选博客 KMP iOS 编译速度慢，如何优化? https://touchlab.co/touchlab-build-only-what-you-need
-在开发 Kotlin/Native iOS 应用时，编译速度是一个常见的问题。除了 Kotlin 编译器本身构建性能问题之外，许多团队在 KMP 构建 iOS 项目时，因构建过多不必要架构，导致构建时间冗长。
-问题产生原因：KMP 构建涉及不同平台工具链，熟悉 KMP 与多平台构建的开发者较少。构建 iOS 应用有 3 种主要架构，同时构建会大幅增加时间，而实际常只需构建一种。 Gradle 构建优化：Gradle 构建默认执行所有架构和版本的构建任务，可通过指定特定任务，如linkDebugFrameworkIosSimulatorArm64 减少构建量。也能自定义 Gradle 任务，仅执行所需的 Android 或其他平台构建任务。查看 Gradle 构建日志（-i参数开启详细日志），能判断是否构建了多余架构。 SPM 和 XCFrameworks 构建要点：KMP Gradle 插件构建 XCFrameworks 时，assembleXCFramework任务会构建所有架构。 CI 构建优化：CI 构建时，应依据 Mac 架构选择 iosSimulatorArm64Test 或 iosX64Test 等特定测试任务，避免运行 build 任务。 精选视频 Compose 热重载是如何实现的？ How &amp;lsquo;Hot Reload&amp;rsquo; is implemented for Compose</description>
+Kotlin 2.1.10 已发布 2.1.10 已在 GitHub 上发布。在以下链接中查看此新版本附带的功能的完整列表：https://github.com/JetBrains/kotlin/releases/tag/v2.1.10
+Kotlin Multiplatform 工具 – 改变方向 JetBrains 曾计划基于 Fleet 平台打造 Kotlin Multiplatform 独立 IDE，以推动 KMP 应用发展。但客户期望在 IntelliJ Platform（如 IntelliJ IDEA、Android Studio ）获得 KMP 支持，加之应用开发方式变革，Google 也正式在 Android 上支持 KMP。</description>
     </item>
     
     <item>
