@@ -6,7 +6,20 @@
     <description>Recent content in 技术月报 on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/tags/%E6%8A%80%E6%9C%AF%E6%9C%88%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 3 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-03/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-03/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 Kotlin roadmap 更新 https://kotlinlang.org/docs/roadmap.html#key-priorities
+Kotlin 的路线图已更新, 这份路线图的目标是让开发者了解全局情况。以下是 Kotlin 的关键关注领域列表，也是 Kotlin 团队致力于实现的最重要方向：
+语言演进：实现更高效的数据处理、增强抽象能力，在保证代码清晰的同时提升性能。 Kotlin 多平台：发布 Kotlin 直接导出到 Swift 的功能、简化构建设置，以及简化多平台库的创建过程。 第三方生态系统作者的体验：简化 Kotlin 库、工具和框架的开发与发布流程。 精选博客 精选视频 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 2 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-02/</link>
