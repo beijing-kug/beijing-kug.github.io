@@ -17,7 +17,9 @@
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 最新动态 Kotlin roadmap 更新 https://kotlinlang.org/docs/roadmap.html#key-priorities
 Kotlin 的路线图已更新, 这份路线图的目标是让开发者了解全局情况。以下是 Kotlin 的关键关注领域列表，也是 Kotlin 团队致力于实现的最重要方向：
-语言演进：实现更高效的数据处理、增强抽象能力，在保证代码清晰的同时提升性能。 Kotlin 多平台：发布 Kotlin 直接导出到 Swift 的功能、简化构建设置，以及简化多平台库的创建过程。 第三方生态系统作者的体验：简化 Kotlin 库、工具和框架的开发与发布流程。 精选博客 精选视频 </description>
+语言演进：实现更高效的数据处理、增强抽象能力，在保证代码清晰的同时提升性能。 Kotlin 多平台：发布 Kotlin 直接导出到 Swift 的功能、简化构建设置，以及简化多平台库的创建过程。 第三方生态系统作者的体验：简化 Kotlin 库、工具和框架的开发与发布流程。 Kotlin 2.1.20 已发布 Kotlin 2.1.20 Released
+Kotlin 2.1.20 已发布，此版本包含了一些新特性和改进，如：
+K2 编译器：更新为新的默认 kapt 编译器插件。 Kotlin 多平台：引入新的 DSL，用于在多平台项目中替代 Gradle 的 Application 插件。 Kotlin/Native：进行内联优化，以此提升运行时性能。 Kotlin/Wasm：开发构建中，自定义格式化程序现在默认启用。 Gradle 支持：在多平台和 JVM 项目中，支持添加自定义发布变体。 标准库：引入常见的原子类型，改进了 UUID 支持，并新增时间跟踪功能。 Compose 编译器：现在默认在所有平台上都包含源信息。 近期使用 Kotlin 开发服务端的经验分享 Shout-Out to Kotlin for Server-Side Content Creators! Kotlin 是由 JetBrains 开发的一种简洁的多平台语言。文章呼吁使用 Kotlin 进行服务器端开发的开发者分享经验，展示了用 Kotlin 进行服务器端开发的各种资源，包括文章和视频教程等示例。同时，Kotlin 团队会挑选优秀内容进行推广，如在博客、社交媒体等平台分享，并给出了一些热门的内容创作主题建议。</description>
     </item>
     
     <item>
