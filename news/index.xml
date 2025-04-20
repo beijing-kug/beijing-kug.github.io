@@ -21,7 +21,7 @@ JetBrains 团队最近发布了一个新的 Kotlin 库 kotlinx.fuzz，旨在帮�
 上下文参数相关更新 Update on Context Parameters
 Context Parameters 是 Kotlin 即将引入的重要特性，具有丰富应用场景，如强化扩展方法和为 DSL 开发提供更好工具。它将在 Kotlin 2.2.0 版本以 Beta 形式发布，从 2025.1 版本起，IntelliJ IDEA 将为其提供专门支持。
 Context Parameters 取代了 Kotlin 中的另一项实验性特性，即 context receivers。尽管 context receivers 始终需要开关开启，但自 1.6.20 版本起就已成为 Kotlin 的一部分，并且在大量代码中被使用。这篇博客文章介绍了 Kotlin 在这两项特性之间过渡的计划。
-精选博客 K2 模式背后的故事与原理解析 The Story Behind K2 Mode and How It Works</description>
+K2 模式现状与 FAQ K2 Mode in IntelliJ IDEA 2025.1: Current State and FAQ</description>
     </item>
     
     <item>
