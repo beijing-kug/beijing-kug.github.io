@@ -6,7 +6,21 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 4 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-04/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-04/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 通过 kotlinx.fuzz 引入模糊测试 Bringing Fuzz Testing to Kotlin with kotlinx.fuzz
+识别用于测试的边缘情况可能是一项具有挑战性的任务，常常会导致隐藏的错误和漏洞未被发现。模糊测试（fuzzing）通过自动生成带有随机或无效输入的测试来应对这一挑战，使开发人员能够发现意外的异常和故障场景。由于其在检测关键软件缺陷方面的有效性，模糊测试在各种编程语言中得到了广泛应用。
+JetBrains 团队最近发布了一个新的 Kotlin 库 kotlinx.fuzz，旨在帮助开发者更轻松地进行模糊测试。该库提供了一些实用的工具和功能，使得模糊测试的实现变得更加简单和高效。
+精选博客 社区活动 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 3 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-03/</link>
