@@ -6,7 +6,20 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 5 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-05/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-05/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+最新动态 Compose Multiplatform 1.8.0 发布：Compose Multiplatform for iOS 已稳定 Compose Multiplatform 1.8.0 现已发布，将 Compose for iOS 带入稳定阶段。 更新后，Kotlin Multiplatform 成为移动开发的完整解决方案，支持跨业务逻辑和 UI 的灵活代码共享，而不会影响应用质量或减少对平台特定功能的控制。
+良好的用户体验不仅仅取决于 UI 行为，也与性能有关。在 Compose Multiplatform 1.8.0 中：
+启动时间与原生应用相当，因此您的第一帧到达的速度同样快。 即使在高刷新率设备上，滚动性能也与 SwiftUI 相当。 与具有相同 UI 逻辑和资源的完全原生 SwiftUI 应用相比，Compose Multiplatform 仅将 iOS 应用的大小增加了约 9 MB。 精选博客 精选视频 社区活动 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 4 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-04/</link>
