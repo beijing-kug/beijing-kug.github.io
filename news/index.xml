@@ -18,7 +18,7 @@
 最新动态 Compose Multiplatform 1.8.0 发布 Compose Multiplatform 1.8.0 发布：Compose Multiplatform for iOS 已经稳定并且可以投入生产环境
 Compose Multiplatform 1.8.0 现已发布，将 Compose for iOS 带入稳定阶段。 更新后，Kotlin Multiplatform 成为移动开发的完整解决方案，支持跨业务逻辑和 UI 的灵活代码共享，而不会影响应用质量或减少对平台特定功能的控制。
 良好的用户体验不仅仅取决于 UI 行为，也与性能有关。在 Compose Multiplatform 1.8.0 中：
-启动时间与原生应用相当，因此您的第一帧到达的速度同样快。 即使在高刷新率设备上，滚动性能也与 SwiftUI 相当。 与具有相同 UI 逻辑和资源的完全原生 SwiftUI 应用相比，Compose Multiplatform 仅将 iOS 应用的大小增加了约 9 MB。 Kotlin/Web 的现状与未来 [https://blog.jetbrains.com/kotlin/2025/05/present-and-future-kotlin-for-web/](Present and Future of Kotlin for Web)
+启动时间与原生应用相当，因此您的第一帧到达的速度同样快。 即使在高刷新率设备上，滚动性能也与 SwiftUI 相当。 与具有相同 UI 逻辑和资源的完全原生 SwiftUI 应用相比，Compose Multiplatform 仅将 iOS 应用的大小增加了约 9 MB。 Kotlin/Web 的现状与未来 Present and Future of Kotlin for Web
 Kotlin 团队始终致力于为 Kotlin 开发者提供强大且无缝的支持，助力其在 Kotlin 多平台进行 Web 开发。为实现这一目标，Kotlin 团队正在几个关键领域开展工作：</description>
     </item>
     
