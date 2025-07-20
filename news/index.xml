@@ -408,5 +408,18 @@ Monad 的概念看起来有些难以理解， 关于 Monad 到底是什么也可
 Kotlin 跨平台相关分享是最多的，可以看出这也是 Kotlin 团队下一步要重点发展的方向 越来越多的人开始使用 Compose ，据统计，在 top 1000 的 Android 应用中，有 21% 的应用使用了 Jetpack Compose 虽然据统计大约 66% 的 Kotlin 开发者是 Android 开发者，但服务端开发者使用 Kotlin 的比例也在逐渐上升，这应该也是 Kotlin 团队想要发力的方向 这次大会 Kotlin 编译器与编译器插件相关的分享也比较多，应该是因为 K2 编译器的逐渐成熟，即将发布 beta 版本 国外很多团队重视代码测试，而不仅仅是需求开发，因此 Kotlin 在测试方面的分享也较多 Google I/O : Android 版 Kotlin 的新动态 What&amp;rsquo;s new in Kotlin for Android：在本次 Google I/O 大会上，介绍了今年将为 Android 开发者发布的 Kotlin 更新，主要包括</description>
     </item>
     
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 7 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-07/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
+最新动态 OkHttp 5.0 版本发布 OkHttp 5.0.0 于 2025 年 7 月 2 日发布，是自 2023 年以来的首个稳定版本，更新内容主要包括以下几个方面：
+分离 JVM 和 Android 工件，支持平台特定优化 MockWebServer 更新：新坐标 / 包名，移除 JUnit 4 依赖，新增 JUnit 5 支持（旧版本仍可使用） 支持 Happy Eyeballs（RFC 8305），并发尝试 IPv4/IPv6 连接 优化 Kotlin API（可省略构建器），支持 GraalVM 依赖升级：Okio 3.15.0、Kotlin 2.2.0 修复：与 Sentry SDK 兼容问题、mockwebserver 查询数据保留问题 精选博客 社区活动 </description>
+    </item>
+    
   </channel>
 </rss>
