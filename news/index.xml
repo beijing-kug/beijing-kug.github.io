@@ -6,7 +6,21 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 7 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-07/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-07/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
+最新动态 Kotlin 近期动态总结 Kodee’s Kotlin Roundup: A Carefully Curated June Edition
+又到了一期《Kodee 的 Kotlin 综述》时间！本文总结了 Kotlin 近期的动态，具体包括以下内容：
+Kotlin 2.2.0 发布：带来新的稳定语言特性、工具更新、跨平台性能提升以及大量重要修复。可通过官方博客文章深入了解。 KotlinConf 2025 相关：会议演讲和照片已上线，错过现场的开发者可在线重温。会议期间探讨了利用 Kotlin 可空性模型泛化为受限联合类型，实现更智能的错误处理。此外，会议闭幕小组讨论未能涵盖所有问题，后续博客文章针对 Kotlin 多平台热门问题给出解答。 Kotlin 在不同领域的进展：在 AI 开发领域，推出新文档页面展示 Kotlin 在实际 AI 场景的应用，并可通过 Kotlin - AI - Examples 仓库了解基于 Kotlin 的 AI 框架 Koog；服务器端开发方面，Ktor 3.2.0 新增依赖注入和 HTMX 模块、支持 Gradle 版本目录、自动配置反序列化等功能；Kotlin 多平台结合 Compose Multiplatform 实现热重载，能加快 UI 代码迭代。 学习资源与其他动态：LinkedIn Learning 推出新的 Kotlin 多平台课程，帮助开发者掌握相关技术。Gradle 9.</description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 6 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-06/</link>
@@ -406,20 +420,6 @@ Monad 的概念看起来有些难以理解， 关于 Monad 到底是什么也可
 本次大会除了开场与闭幕讨论，共有 69 场分享，可以说是一场盛宴了，我整理统计了一下各个分享的主题
 主题 分享数 Kotlin 跨平台 21 Compose 相关分享 10 Kotlin 在服务端的应用 9 Kotlin 协程相关分享 8 Kotlin 编译器与编译器插件 8 Kotlin 与测试 4 Kotlin 语言特性相关分享 4 Kotlin 与函数式编程 3 Kotlin 用于数据科学 2 Kotlin 与游戏 2 Kotlin 与 Gradle 1 Kotlin 与 AI 1 从各个主题的分享数量也可以看出 Kotlin 在各个方向的火热程度
 Kotlin 跨平台相关分享是最多的，可以看出这也是 Kotlin 团队下一步要重点发展的方向 越来越多的人开始使用 Compose ，据统计，在 top 1000 的 Android 应用中，有 21% 的应用使用了 Jetpack Compose 虽然据统计大约 66% 的 Kotlin 开发者是 Android 开发者，但服务端开发者使用 Kotlin 的比例也在逐渐上升，这应该也是 Kotlin 团队想要发力的方向 这次大会 Kotlin 编译器与编译器插件相关的分享也比较多，应该是因为 K2 编译器的逐渐成熟，即将发布 beta 版本 国外很多团队重视代码测试，而不仅仅是需求开发，因此 Kotlin 在测试方面的分享也较多 Google I/O : Android 版 Kotlin 的新动态 What&amp;rsquo;s new in Kotlin for Android：在本次 Google I/O 大会上，介绍了今年将为 Android 开发者发布的 Kotlin 更新，主要包括</description>
-    </item>
-    
-    <item>
-      <title>Kotlin 技术月报 | 2025 年 7 月</title>
-      <link>https://beijing-kug.github.io/news/kotlin-news-2025-07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-07/</guid>
-      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
-月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
-微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
-最新动态 Kotlin 近期动态总结 Kodee’s Kotlin Roundup: A Carefully Curated June Edition
-又到了一期《Kodee 的 Kotlin 综述》时间！本文总结了 Kotlin 近期的动态，具体包括以下内容：
-Kotlin 2.2.0 发布：带来新的稳定语言特性、工具更新、跨平台性能提升以及大量重要修复。可通过官方博客文章深入了解。 KotlinConf 2025 相关：会议演讲和照片已上线，错过现场的开发者可在线重温。会议期间探讨了利用 Kotlin 可空性模型泛化为受限联合类型，实现更智能的错误处理。此外，会议闭幕小组讨论未能涵盖所有问题，后续博客文章针对 Kotlin 多平台热门问题给出解答。 Kotlin 在不同领域的进展：在 AI 开发领域，推出新文档页面展示 Kotlin 在实际 AI 场景的应用，并可通过 Kotlin - AI - Examples 仓库了解基于 Kotlin 的 AI 框架 Koog；服务器端开发方面，Ktor 3.2.0 新增依赖注入和 HTMX 模块、支持 Gradle 版本目录、自动配置反序列化等功能；Kotlin 多平台结合 Compose Multiplatform 实现热重载，能加快 UI 代码迭代。 学习资源与其他动态：LinkedIn Learning 推出新的 Kotlin 多平台课程，帮助开发者掌握相关技术。Gradle 9.</description>
     </item>
     
   </channel>
