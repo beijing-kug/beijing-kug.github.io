@@ -6,7 +6,21 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 8 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-08/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-08/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
+最新动态 Kotlin 近期动态总结 Kodee’s Kotlin Roundup: 2.2.20-Beta2, Kotlin LSP Update, Shipaton 2025, and a New Face on the Foundation Board
+又到了一期《Kodee 的 Kotlin 综述》时间！本文总结了 Kotlin 近期的动态，具体包括以下内容：
+Kotlin 2.2.20-Beta2 发布：带来智能升级，Kotlin Multiplatform 增强跨平台能力，默认支持 Swift 导出，新增 Web 开发目标；Kotlin/Native 在二进制管理和调试方面有改进。 Kotlin 编程语言排名：在 2025 年 Stack Overflow 开发者调查中，位列最常用编程语言第 15 位，虽未进前十，但有较大发展空间。 Kotlin 语言服务器协议更新：首个 KotlinConf 后的版本核心功能更完善，虽仍有工作要做，但整体进展良好。 Shipaton 2025 活动：为期两个月，Kotlin 开发者可借助稳定的 Compose Multiplatform for iOS 参与，有机会赢得 Kotlin Multiplatform Reach Award 及 55,000 美元奖金池份额。 Kotlin 基金会新成员：欢迎 Sergei Rybalkin 加入董事会，他是 Meta 高级软件工程师，此前在阿里巴巴推动 Kotlin 应用，在多个领域经验丰富。 IntelliJ IDEA 2025.</description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 7 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-07/</link>
