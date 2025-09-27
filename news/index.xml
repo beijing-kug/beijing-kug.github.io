@@ -16,7 +16,10 @@
       <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
 月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
 微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
-最新动态 Compose Multiplatform for Web 进入 Beta 阶段 Compose Multiplatform 1.9.0 Released: Compose Multiplatform for Web Goes Beta
+最新动态 Kotlin 2.2.20 正式发布 Kotlin 2.2.20 Released
+Kotlin 2.2.20 版本正式发布，主要更新内容包括：
+Compose Multiplatform for Web 进入 Beta 阶段 Compose Multiplatform 1.9.0 Released: Compose Multiplatform for Web Goes Beta
+Compose Multiplatform 1.9.0 版本发布，主要包括以下内容：
 核心版本里程碑：2025年9月发布 1.9.0 版本，基于 Wasm 的 Compose Multiplatform for web 进入 Beta 阶段，脱离实验性质，支持早期开发者实际使用，成果依赖 Alpha 版用户反馈、演示项目及开源贡献。 Web 开发核心优势：开发者可复用 Android 端 Compose 技能与 UI 代码，无需学新工具；自带 Material 3 组件、自适应布局、浏览器导航集成、深色模式支持，且提供 Web 核心 API、HTML 互操作性、类型安全导航等能力，兼容多浏览器。 开发工具支持：可通过 IntelliJ IDEA（支持 macOS/Windows/Linux）或 Android Studio（Windows/Linux 支持后续添加）+ Kotlin Multiplatform 插件开发，插件支持创建 Web 项目、IDE 内运行调试、浏览器/IDE 双端调试。 实际应用案例：含 Kotlin Playground、KotlinConf app 等典型案例，另有 Rijksmuseum 藏品交互展示、Jetsnack 电商Demo、Material 3 组件画廊、Storytale UI 组件预览工具等参考项目。 上手与反馈渠道：通过 Kotlin Playground 零配置试用，或 IDE 按指南搭建；官方鼓励在 Kotlin Slack 的 #compose-web/#compose 频道反馈，助力框架优化。 多平台额外优化：iOS 端支持配置帧率、自定义文本输入；桌面端新增窗口预配置功能；全平台增强设计预览，简化变体测试，支持阴影深度自定义。 精选博客 精选播客 </description>
     </item>
     
