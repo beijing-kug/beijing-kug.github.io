@@ -6,7 +6,21 @@
     <description>Recent content in News on 北京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beijing-kug.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kotlin 技术月报 | 2025 年 10 月</title>
+      <link>https://beijing-kug.github.io/news/kotlin-news-2025-10/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://beijing-kug.github.io/news/kotlin-news-2025-10/</guid>
+      <description>为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。
+月报的主要内容包括：整理展示最近一个月的最新技术动态，精选博客，精选视频以及社区活动等方面的信息。
+微信内限制外链点击，大家可以点击左下角阅读原文，支持外链查看。
+最新动态 Kotlin 2.3.0-Beta1 版本发布 https://kotlinlang.org/docs/whatsnew-eap.html
+Kotlin 2.3.0-Beta1 版本发布，主要更新内容包括：
+特性稳定化：嵌套类型别名、when表达式详尽性检查、全新时间跟踪功能 语言层面：新增未使用返回值检查器，以及上下文敏感解析的相关变更 Kotlin/Native：默认启用泛型类型边界的类型检查 fun main() { val list = listOf(&amp;#34;hello&amp;#34;) val x = (list as List&amp;lt;Int&amp;gt;)[0] println(x) // Now throws a ClassCastException error } 精选博客 </description>
+    </item>
+    
     <item>
       <title>Kotlin 技术月报 | 2025 年 9 月</title>
       <link>https://beijing-kug.github.io/news/kotlin-news-2025-09/</link>
